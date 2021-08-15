@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*TRAVELLING IS MY PASSION*
+
+**SOLO TRAVELS ARE THE BEST!**
+
+_TRAVELLING WITH **FRIENDS** IS ALSO A DIFFERNT TYPE OF VIBE!_
